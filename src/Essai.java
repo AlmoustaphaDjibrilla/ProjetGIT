@@ -11,8 +11,13 @@ public class Essai {
 		
 		System.out.println ("La somme de "+i+" , de "+j+" et de "+k+" est: "+somme);
 
+		
+		System.out.println("Voila c'est fait");
+
+
 		String message="\n\n\tCeci est une nouvelle modification apportée par Abdoul Raouf depuis son ordinateur portable\n\n";
 
 		System.out.println (message);
+
 	}
 }
